@@ -1,0 +1,137 @@
+.navbar-nav li:hover > ul.dropdown-menu {
+    display: block;
+}
+.dropdown-submenu {
+    position:relative;
+}
+.dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top:-6px;
+}
+.logo {
+    margin-bottom: -45px;
+}
+/* rotate caret on hover */
+.dropdown-menu > li > a:hover:after {
+    text-decoration: underline;
+    transform: rotate(-90deg);
+} 
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.anhdienthoai{
+    padding-top: 5px;
+    padding-left: 110px;
+}
+.know{
+    font-weight: bold;  
+     
+}
+.khoimenu2{
+    margin-left: 220px;
+}
+.navbar{
+    margin-bottom: 0px;
+}
+.anhslider{
+    border: none;
+    width: 100%;
+    height: 100%;
+}
+.container{
+
+}
+.carousel-item{
+    position: relative;
+  text-align: center;
+  color: rgb(74, 34, 34);
+}
+.doanvan{
+    position: absolute;
+    bottom: 300px;
+    left: 100px;
+    color: white;
+    text-align: left;
+}
+
+.card1{
+    margin: 100px;
+    
+}
+
+.anhduoidiv{
+    float: left;
+    display: block;
+    margin-right: 30px;
+    
+}
+
+.divduoicard{
+    margin-left: 20px;
+}
+.khoidoanvan{
+    margin-left: 15px;
+
+}
+.hinhtronduoicard{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(22, 3, 3);
+    border-radius: 150px;
+    text-align: center;
+    margin-left: 710px;
+    margin-top: -350px;
+    color: rgb(41, 227, 24);
+    
+}
+.formtronghinhtron{
+    color: white;
+    display: block;
+    
+}
+.nutbamtronghinhtron{
+    background-color: white;
+    color: black;
+}
+.signup{
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    margin-top: -50px;
+}
+.textboxnhapthongtin{
+    background-color: black;
+    border-top: 0px;
+    border-right: 0px;
+}
+.khoi4card{
+    background-color: antiquewhite;
+;
+    margin-top: 100px;
+}
+.doanvan4card{
+    text-align: center;
+}
+.card-title{
+    font-weight: bold;
+}
+.groupicon{
+   border-top: black solid 1px; 
+}
+.card2{
+    
+}
+.card4anh{
+    display: block;
+  
+}
+.boccardthu4{
+    margin-top: 50px;
+    background-color: white;
+}
+.doanvancard4{
+    text-align: center;
+}
