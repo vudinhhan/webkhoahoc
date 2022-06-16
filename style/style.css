@@ -128,10 +128,6 @@
     display: block;
   
 }
-.boccardthu4{
-    margin-top: 50px;
-    background-color: white;
-}
 .doanvancard4{
     text-align: center;
 }
@@ -160,6 +156,11 @@
     display: block;
     margin-left: 5px;
 }
-.div3cardcongaythang{
-    
+.boccardthu4{
+    margin-top: 50px;
+    background-color: white
+}
+.thebocmuiten{
+    padding-top: 30px;
+    background-color: white;
 }
