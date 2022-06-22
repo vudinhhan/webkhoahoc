@@ -196,12 +196,14 @@
 }
 .khoicontactuss{
     margin-top: 50px;  
+    background-color: blue;
 }
 .khoicontactuss row{
     background-color: blue;
 }
 .footer{
     margin-top: 60px;
+    background-color: black;
 }
 .footer .row .col-md-4 i{
     padding: 10px;
