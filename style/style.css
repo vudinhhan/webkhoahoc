@@ -17,11 +17,6 @@
     text-decoration: underline;
     transform: rotate(-90deg);
 } 
-
-*{
-    margin: 0;
-    padding: 0;
-}
 .anhdienthoai{
     padding-top: 5px;
     padding-left: 110px;
@@ -41,14 +36,6 @@
     width: 100%;
     height: 100%;
 }
-.container{
-
-}
-.carousel-item{
-    position: relative;
-  text-align: center;
-  color: rgb(74, 34, 34);
-}
 .doanvan{
     position: absolute;
     bottom: 300px;
@@ -56,34 +43,33 @@
     color: white;
     text-align: left;
 }
-
-.card1{
-    margin: 100px;
-    
+.divboccard{
+    padding: 50px;
+    margin: 10px;
+   
 }
-
+.card1{
+    background-color: aqua;
+    padding: 70px;
+    border: black solid 1px;
+}
 .anhduoidiv{
     float: left;
     display: block;
     margin-right: 30px;
     
 }
-
-.divduoicard{
-    margin-left: 20px;
-}
 .khoidoanvan{
     margin-left: 15px;
+    margin-top: 30;
 
 }
 .hinhtronduoicard{
-    height: 300px;
-    width: 300px;
+    height: 500px;
+    width: 500px;
     background-color: rgb(22, 3, 3);
-    border-radius: 150px;
+    border-radius: 350px;
     text-align: center;
-    margin-left: 710px;
-    margin-top: -350px;
     color: rgb(41, 227, 24);
     
 }
@@ -193,6 +179,7 @@
 .khoianhcontact img{
     height: 450px;
     width: auto;
+
 }
 .khoicontactuss{
     margin-top: 50px;  
@@ -209,15 +196,17 @@
     padding: 10px;
     display: inline; 
 }
-.footer .row .nutsendme{
+.footer .rowfooter .nutsendme{
     margin-top: 20px;
     width: 40%;
     border-radius: 10px;
     height: auto;
+
 }
-.row{
-    padding: 10px;
-}
+
 .pleasenote{
+    margin-top: 30px;
+}
+.divduoicard{
     margin-top: 30px;
 }
